@@ -1,6 +1,6 @@
 ### 👋 野生摸鱼博主<h2>爱生活爱摸鱼</h2>
 <img src="https://github.com/kilimro/kilimro/blob/0b299735290603513d84a6c89b89b17974ec1962/moyu.png" align="right"  width="30%" alt=""/>
-## 🛠️ 技术栈
+<h3> 技术栈 </h3>
 - **主要语言**: PHP, HTML
 - **辅助技能**: CSS, JavaScript, MySQL
 - **工具**: Git, Composer, VS Code
