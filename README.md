@@ -9,7 +9,7 @@
 
 ## 🎨 今天你摸鱼了吗？
 
-![今天你摸鱼了吗](https://github.com/kilimro/kilimro/blob/b610f466ebabef79ce04660507c4710e7b06e0f4/b58f8c5494eef01f9c474b2112700e2bbd317d24.jpeg))
+![今天你摸鱼了吗](https://github.com/kilimro/kilimro/blob/b610f466ebabef79ce04660507c4710e7b06e0f4/b58f8c5494eef01f9c474b2112700e2bbd317d24.jpeg)
 
 ## 📈 GitHub 数据
 
