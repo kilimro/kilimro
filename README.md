@@ -1,17 +1,20 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilimro)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**kilimro/kilimro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 野生摸鱼博主
 
-Here are some ideas to get you started:
+## 🛠️ 技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **主要语言**: PHP, HTML
+- **辅助技能**: CSS, JavaScript, MySQL
+- **工具**: Git, Composer, VS Code
+- **框架**: Laravel, Bootstrap
+
+## 🎨 今天你摸鱼了吗？
+
+![搞怪1](https://pics0.baidu.com/feed/b58f8c5494eef01f9c474b2112700e2bbd317d24.jpeg)
+
+## 📈 GitHub 数据
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kilimro&show_icons=true&theme=radical)
+
+## 📫 联系我
+
+- **微信公众号**: MIANPRO
