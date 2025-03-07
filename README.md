@@ -9,7 +9,7 @@
 
 ## 🎨 今天你摸鱼了吗？
 
-![搞怪1](https://pics0.baidu.com/feed/b58f8c5494eef01f9c474b2112700e2bbd317d24.jpeg)
+![今天你摸鱼了吗]([https://pics0.baidu.com/feed/b58f8c5494eef01f9c474b2112700e2bbd317d24.jpeg](https://picx.zhimg.com/50/v2-680e1a902305c56a4a69ec6e16c65688_720w.webp?source=2c26e567))
 
 ## 📈 GitHub 数据
 
