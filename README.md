@@ -7,9 +7,9 @@
 - **工具**: Git, Composer, VS Code
 - **框架**: Laravel, Bootstrap
 
-## 🎨 今天你摸鱼了吗？
+## 🎨 今天你摸鱼了吗？<img src="https://github.com/kilimro/kilimro/blob/0b299735290603513d84a6c89b89b17974ec1962/moyu.png" align="right"  width="30%" alt=""/>
 
-![摸鱼](https://github.com/kilimro/kilimro/blob/0b299735290603513d84a6c89b89b17974ec1962/moyu.png)
+![摸鱼]()
 
 ## 📈 GitHub 数据
 
