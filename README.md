@@ -1,4 +1,5 @@
 ### 👋 Wild Slacking Blogger
+<img src="https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859" >
 <h2>Love Life, Love Slacking</h2>
 <img src="https://github.com/kilimro/kilimro/blob/0b299735290603513d84a6c89b89b17974ec1962/moyu.png" align="right"  width="30%" alt=""/>
 <h3> Tech Stack </h3>
